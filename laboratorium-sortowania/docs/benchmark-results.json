@@ -1,0 +1,254 @@
+[
+  {
+    "size": 10,
+    "pattern": "Rosnące",
+    "algorithm": "selection",
+    "comparisons": 45,
+    "writes": 0
+  },
+  {
+    "size": 10,
+    "pattern": "Rosnące",
+    "algorithm": "insertion",
+    "comparisons": 9,
+    "writes": 0
+  },
+  {
+    "size": 10,
+    "pattern": "Rosnące",
+    "algorithm": "merge",
+    "comparisons": 19,
+    "writes": 68
+  },
+  {
+    "size": 10,
+    "pattern": "Rosnące",
+    "algorithm": "quick",
+    "comparisons": 45,
+    "writes": 0
+  },
+  {
+    "size": 10,
+    "pattern": "Malejące",
+    "algorithm": "selection",
+    "comparisons": 45,
+    "writes": 10
+  },
+  {
+    "size": 10,
+    "pattern": "Malejące",
+    "algorithm": "insertion",
+    "comparisons": 45,
+    "writes": 54
+  },
+  {
+    "size": 10,
+    "pattern": "Malejące",
+    "algorithm": "merge",
+    "comparisons": 15,
+    "writes": 68
+  },
+  {
+    "size": 10,
+    "pattern": "Malejące",
+    "algorithm": "quick",
+    "comparisons": 45,
+    "writes": 10
+  },
+  {
+    "size": 10,
+    "pattern": "Powtórzenia",
+    "algorithm": "selection",
+    "comparisons": 45,
+    "writes": 12
+  },
+  {
+    "size": 10,
+    "pattern": "Powtórzenia",
+    "algorithm": "insertion",
+    "comparisons": 19,
+    "writes": 14
+  },
+  {
+    "size": 10,
+    "pattern": "Powtórzenia",
+    "algorithm": "merge",
+    "comparisons": 23,
+    "writes": 68
+  },
+  {
+    "size": 10,
+    "pattern": "Powtórzenia",
+    "algorithm": "quick",
+    "comparisons": 29,
+    "writes": 20
+  },
+  {
+    "size": 20,
+    "pattern": "Rosnące",
+    "algorithm": "selection",
+    "comparisons": 190,
+    "writes": 0
+  },
+  {
+    "size": 20,
+    "pattern": "Rosnące",
+    "algorithm": "insertion",
+    "comparisons": 19,
+    "writes": 0
+  },
+  {
+    "size": 20,
+    "pattern": "Rosnące",
+    "algorithm": "merge",
+    "comparisons": 48,
+    "writes": 176
+  },
+  {
+    "size": 20,
+    "pattern": "Rosnące",
+    "algorithm": "quick",
+    "comparisons": 190,
+    "writes": 0
+  },
+  {
+    "size": 20,
+    "pattern": "Malejące",
+    "algorithm": "selection",
+    "comparisons": 190,
+    "writes": 20
+  },
+  {
+    "size": 20,
+    "pattern": "Malejące",
+    "algorithm": "insertion",
+    "comparisons": 190,
+    "writes": 209
+  },
+  {
+    "size": 20,
+    "pattern": "Malejące",
+    "algorithm": "merge",
+    "comparisons": 40,
+    "writes": 176
+  },
+  {
+    "size": 20,
+    "pattern": "Malejące",
+    "algorithm": "quick",
+    "comparisons": 190,
+    "writes": 20
+  },
+  {
+    "size": 20,
+    "pattern": "Powtórzenia",
+    "algorithm": "selection",
+    "comparisons": 190,
+    "writes": 30
+  },
+  {
+    "size": 20,
+    "pattern": "Powtórzenia",
+    "algorithm": "insertion",
+    "comparisons": 79,
+    "writes": 72
+  },
+  {
+    "size": 20,
+    "pattern": "Powtórzenia",
+    "algorithm": "merge",
+    "comparisons": 64,
+    "writes": 176
+  },
+  {
+    "size": 20,
+    "pattern": "Powtórzenia",
+    "algorithm": "quick",
+    "comparisons": 82,
+    "writes": 60
+  },
+  {
+    "size": 40,
+    "pattern": "Rosnące",
+    "algorithm": "selection",
+    "comparisons": 780,
+    "writes": 0
+  },
+  {
+    "size": 40,
+    "pattern": "Rosnące",
+    "algorithm": "insertion",
+    "comparisons": 39,
+    "writes": 0
+  },
+  {
+    "size": 40,
+    "pattern": "Rosnące",
+    "algorithm": "merge",
+    "comparisons": 116,
+    "writes": 432
+  },
+  {
+    "size": 40,
+    "pattern": "Rosnące",
+    "algorithm": "quick",
+    "comparisons": 780,
+    "writes": 0
+  },
+  {
+    "size": 40,
+    "pattern": "Malejące",
+    "algorithm": "selection",
+    "comparisons": 780,
+    "writes": 40
+  },
+  {
+    "size": 40,
+    "pattern": "Malejące",
+    "algorithm": "insertion",
+    "comparisons": 780,
+    "writes": 819
+  },
+  {
+    "size": 40,
+    "pattern": "Malejące",
+    "algorithm": "merge",
+    "comparisons": 100,
+    "writes": 432
+  },
+  {
+    "size": 40,
+    "pattern": "Malejące",
+    "algorithm": "quick",
+    "comparisons": 780,
+    "writes": 40
+  },
+  {
+    "size": 40,
+    "pattern": "Powtórzenia",
+    "algorithm": "selection",
+    "comparisons": 780,
+    "writes": 62
+  },
+  {
+    "size": 40,
+    "pattern": "Powtórzenia",
+    "algorithm": "insertion",
+    "comparisons": 319,
+    "writes": 308
+  },
+  {
+    "size": 40,
+    "pattern": "Powtórzenia",
+    "algorithm": "merge",
+    "comparisons": 164,
+    "writes": 432
+  },
+  {
+    "size": 40,
+    "pattern": "Powtórzenia",
+    "algorithm": "quick",
+    "comparisons": 248,
+    "writes": 140
+  }
+]
